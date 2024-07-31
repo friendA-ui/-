@@ -19,7 +19,7 @@
 且新增其他的节点，除了维护枚举类之外不需要更改之前的代码
 
 ```java
-	@Resource
+    @Resource
     private DemoClientAdapter demoClientAdapter;
     
     public void test(){
