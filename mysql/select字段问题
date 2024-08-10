@@ -1,0 +1,1 @@
+在MySQL中，order by的字段不一定要在select语句中。 但是，如果使用了DISTINCT关键字，那么ORDER BY子句中的项必须出现在选择列表中
